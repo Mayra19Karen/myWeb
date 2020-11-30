@@ -1,0 +1,25 @@
+* [33maad6d1f[m[33m ([m[1;36mHEAD -> [m[1;32mamigo[m[33m)[m Aplicar estilos al header
+[31m|[m * [33m2a78ea5[m[33m ([m[1;32mmaster[m[33m)[m Agregando estructura del encabezado
+[31m|[m[31m/[m  
+*   [33m1980c28[m Merge branch 'amigo'
+[33m|[m[34m\[m  
+[33m|[m * [33md57c626[m se modifica el titulo de la web
+* [34m|[m [33mcc15c4b[m se corrige el titulo
+[34m|[m[34m/[m  
+*   [33m47c7832[m Merge branch 'nuevosestilos'
+[35m|[m[36m\[m  
+[35m|[m * [33m08fc281[m[33m ([m[1;32mnuevosestilos[m[33m)[m se aplican nuevos estilos  a la web
+* [36m|[m [33m69ad8fb[m Se reduce la cantidad de parrafos
+[36m|[m[36m/[m  
+* [33mf87b4f3[m se corrigen los estilos css
+* [33m4ee2ee5[m se añaden nuevos parrafos
+* [33m96483b4[m dejar de seguir readme
+* [33m5d129f4[m modificamos el gitignore
+* [33md9000ab[m se añade el gitignore
+* [33m8ebc5dd[m Añadimos el paso a paso para levantar el proyecto
+* [33m513cc71[m Agregamos estilos al proyecto
+* [33me9ed57f[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m Agregamos diferentes archivos y carpetas al proyecto
+* [33m1b480ec[m Agregamos la documentacion del proyecto
+* [33mf3f4973[m[33m ([m[1;33mtag: v0.1.0[m[33m)[m Se añadieron mas parrafos y texto al readme
+* [33ma88aead[m Agregamos un parrafo
+* [33m88a8646[m Primer commit
